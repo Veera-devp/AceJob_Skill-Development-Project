@@ -1,0 +1,14 @@
+img {
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(4, 15, 10, 0.363);
+   }
+   .textstyle {
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight:bold;
+   }
+   .textstyle2 {
+    font-family: Verdana, sans-serif;
+   }
+   .textstyle3 {
+    font-size: 18px;
+   }
